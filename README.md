@@ -8,7 +8,8 @@ Pyhton3.6
 Tweepy
 Twitter Developer Account and an App
 Keys Form the App Created on Twitter
-Clone Using $ git clone 
+Clone Using 
+$ git clone https://github.com/montukv/Artificial-Emotion.git
 
 Running On Your Machine
 
