@@ -21,7 +21,7 @@ def retrieve_last_seen_id(file_name):
 
 
 # store the last seen id for next time so that the same tweets are not accessed everytime
-def store_last_seen_id(last_seen_id, file_name):
+def store_last_seen_id(lastid, file_name):
     f_write = open(file_name, 'w')
     f_write.write(str(last_seen_id))
     f_write.close()
