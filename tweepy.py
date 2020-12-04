@@ -1,7 +1,7 @@
 import tweepy
 from textblob import TextBlob
 
-#  Authenticate of user
+#  Authenticate of twitter account
 consumer_key= 'Your consumer key '
 consumer_secret= 'Your secret key'
 
